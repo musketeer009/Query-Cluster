@@ -1,0 +1,28 @@
+
+-- 1. Finding the names of unique brands
+-- 2. Finding the number of unique brands
+-- 3. Finding the number of products in each brands
+-- 4. Finding the top 5 brand who has the most number of products
+-- 5. Finding the top 5 brand who sold the most number of products
+-- 6. Finding the top 5 most expensive brands based on their discounted price
+-- 7. Finding the top 5 least expensive brands based on their discounted price
+-- 8. Finding the top 10 best-selling product categories 
+-- 9. Finding the top 10 brands who gives maximum discount
+-- 10. Finding the top 5 most expensive product category
+
+-- Brand Report Card
+-- 1. top 10 brand with maximum revenue generated
+-- 2. Which product_category of any brand is sold the most?
+-- 3. List top 5 brands which has sold most number of tshirts
+-- 4. List top 5 brands which has sold most number of shirts
+-- 5. List top 5 brands which has sold most number of jeans
+-- 6. List top 5 brands which has sold most number of dresses
+-- 7. Most popular product name listed in Myntra
+-- 8. Number of products sold for every rating (0 - 5)
+-- 9. Number of products sold for every rating by nike
+-- 10. Number of products sold for every rating in tshirt category
+-- 11. Relation between price of the thisrt and its rating wrt to people rated
+-- 12. Find number of product sold for every rating
+-- 13. Find the average rating for each product category (product tag) along with the number of products and total rating count
+-- 14. Find the brand with the highest average rating among products with a discounted price greater than 5000
+-- 15. top 10 brand with most number of product sold
